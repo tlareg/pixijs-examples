@@ -9,6 +9,6 @@ npm i -g gulp
 npm i
 bower i
 
-npm serve
+gulp serve
 ```
 
