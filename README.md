@@ -1,4 +1,4 @@
-# pixijs-test
+# pixijs-examples
 
 Just playing with pixijs.
 
